@@ -1,5 +1,6 @@
 package org.programirame;
 
+import org.igorski.Calculator;
 import org.junit.Before;
 import org.junit.Test;
 
