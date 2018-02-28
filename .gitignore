@@ -1,3 +1,4 @@
 /.idea/
 /jacoco-offline-instrumentation.iml
 /target/
+/*.iml
