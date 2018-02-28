@@ -1,4 +1,4 @@
-package org.programirame;
+package org.igorski;
 
 /**
  * Class with methods that perform simple arithmetic operations.
